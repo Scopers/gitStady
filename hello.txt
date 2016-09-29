@@ -2,4 +2,5 @@
 one commit
 two commit
 new commit
-hello new branch
+<<<<<<< HEAD
+hello new new_f
